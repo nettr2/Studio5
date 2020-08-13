@@ -8,7 +8,7 @@ I completed the vue app that grayson showed us. Its a weather app that uses an a
 //picture of weather app
 //picture of kanban board
 
-Week 3 Lesson 1
+Week 3 
 Over the weekend I looked up some useful github/gitbash resources to send to our clients, as they want to start using git for their project. Kirsten filled me in on the what happened on thrusda. The girls are using firebase in the application for authentication, and then airtable for the database. I researched both of these over the weekend as well. Then during the lesson, I gave kirsten my resources and along with some that resources she found as well, an email was sent off so they can get started using git. I'm going to try out some tutorials on how to set up firebase authentication, and see if I can get something working so i can help them when they come to do that part of their project. We also had a standup meeting with all of team which was good to catch up and see whats going on. Kirsten is going to add the girls to the project repo when they make github accounts, and we have asked them to push their design plan so we can see what they have already got. 
 
 The girls got in contact with us, mentioning that they were having trouble with setting up github on their computers. We have arranged to have a video chat with them today (6/08)so we can walk them through the process of downloading git bash (they have mac computers and seemed to be struggling with finding the download for macs) and then how to clone the project repo, and push and pull their work. I have included some screenshots of our emails. I also wrote up a rough step by step for how to setup the basics in git, mostly just for me and kirstin to work from while teaching them.
@@ -17,6 +17,11 @@ We had our first video meeting this afternoon, it was definitly an interesting e
 
 //picture of emails about github tutorial
 // picture of ciscomeeting
+
+Week 4 
+This week I got an email fowarded from grayson about the payment system that the girls are using for their app. It's called polipay. I went to their website and read through some of the documentation, just to try and get an understanding of how it works. Then on monday we had a standup meeting with all of our team, and grayson let us know that in the next class we would be having our quarter review. I spent a bit of time trying to get the firebase authentication working on my vue weather app, but i'm really struggling to get it to work in vue, so i might try and implement just in a basic html page. I have interacted with the girls this week by arranging a face to face meeting time. We are planning to meet on monday(17/08) at 1:30, alhough this may chnage due to covid. They were also having some trouble with git, in partica
+
+
 
 
 
