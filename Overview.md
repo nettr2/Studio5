@@ -41,6 +41,11 @@ This week I got an email fowarded from grayson about the payment system that the
 
 ![picture of email](/images/MoreEmails.PNG)
 
+## Week 5 
+This week we were planning to have a face to face meeting on monday with the girls, but I rang the school office and they suggested that online meetings would be better due to covid. This was a bit of set back, as it would have been really good to check in face to face and help them in person. We had some techincal/logistical issues, and we decided that we would do video call next monday as that is when they have their digi class. It can be a bit of a stuggle to make sure that we are giving them the right information that they need, when we are still a little unsure of what they are stuck on and the problems they are facing. Its harder to understand over slack and videos compared to in person where they can show us exactly what is wrong or what they need help with. I know they have still been having a few issues with git, so I have added some more information to the github wiki about using git status to troubleshoot and see whats going on. We also made a kanban board for ourselves the canteen app repo so we could keep track of what we were doing. We also started writing users stories for the project and added them as issues in the repo. 
+
+![picture of email](/images/wikipic.PNG)
+
 
 
 
