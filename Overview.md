@@ -10,10 +10,20 @@ I have choosen to join the mobile team this semester. For our project, what i kn
 <br/>
 I completed the vue app that grayson showed us. Its a weather app that uses an api to get the live weather updates. It took a while to complete, as i've never written anything in vue  before. The code layout was interesting, with everything being in one file. The tutorial was very stylistically focused, and had lots of little css details to really grab the attention of the user. I was really pleased with the outcome, It ended up looking pretty cool. This thursday was the day that we were supposed to meet the "clients", but I had to leave early as I ate something bad that didn't agree with me and I felt pretty sick. I asked Kirsten to fill me in the with details afterwards. We had our first stand up meeting at the start of this week, which was nice just to see where everyone was at. We also made a github repo and set up a kanban board, ready for when we have things that need to be done. 
 
+<br/>
 
-![picture of weatherapp](/images/WeatherAppCold.png)
-![picture of weatherapp](/images/WeatherAppHot.PNG)
-![picture of kanaban](/images/KanbanBoard.PNG)
+<p float="left">
+<img src="/images/WeatherAppCold.png" alt="drawing" width="200"/>
+
+
+<img src="/images/WeatherAppHot.PNG" alt="drawing" width="200"/>
+</p>
+
+</br>
+
+<img src="/images/KanbanBoard.PNG" alt="drawing" />
+<br/>
+
 
 
 ## Week 3 
@@ -27,7 +37,7 @@ We had our first video meeting this afternoon, it was definitly an interesting e
 
 
 ## Week 4 
-This week I got an email fowarded from grayson about the payment system that the girls are using for their app. It's called polipay. I went to their website and read through some of the documentation, just to try and get an understanding of how it works. Then on monday we had a standup meeting with all of our team, and grayson let us know that in the next class we would be having our quarter review. I spent a bit of time trying to get the firebase authentication working on my vue weather app, but i'm really struggling to get it to work in vue, so i might try and implement just in a basic html page. I have interacted with the girls this week by arranging a face to face meeting time. We are planning to meet on monday(17/08) at 1:30, alhough this may chnage due to covid. They were also having some trouble with git, in partica
+This week I got an email fowarded from grayson about the payment system that the girls are using for their app. It's called polipay. I went to their website and read through some of the documentation, just to try and get an understanding of how it works. Then on monday we had a standup meeting with all of our team, and grayson let us know that in the next class we would be having our quarter review. I spent a bit of time trying to get the firebase authentication working on my vue weather app, but i'm really struggling to get it to work in vue, so i might try and implement just in a basic html page. I have interacted with the girls this week by arranging a face to face meeting time. We are planning to meet on monday(17/08) at 1:30, alhough this may change due to covid. They were also having some trouble with git, in particular merging. They sent us a screenshot of the error they were getting when they tried to push their code, so we sent them some info about how to fix it on the slack channel. I am working on updating our team wiki with some more git commands related to merging and checking the status of their workflow. 
 
 ![picture of email](/images/MoreEmails.PNG)
 
