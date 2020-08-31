@@ -48,23 +48,23 @@ This week we were planning to have a face to face meeting on monday with the gir
 
 ## Week 6
 
--video meeting on monday to help git errors. 
+- video meeting on monday to help git errors. 
 - meeting on thursday @ st hildas
 - need to do the turial that gryason gave us (firebase auth)
--communicating a time tha works for meetings for everyone.
--discussed git and what it means (its a version control system) 
+- communicating a time tha works for meetings for everyone.
+- discussed git and what it means (its a version control system) 
 - discussed what they want help with (mainly polipay stuff and git) 
--talking about where they are at and their current skill level. 
-- -worked on writing user stories and moving takshe columns of the kanban 
+- talking about where they are at and their current skill level. 
+- worked on writing user stories and moving takshe columns of the kanban 
 
 ## Week 7 
 
 - Main goal for monday is to finish the auth tutorial that grayson gave us an c
--check in with the girls and help them with anything they need help with during the week until thursday, 
--GOal to write about branching in the wiki and 
--then also have either a video or inperson meeting on thursday.
--Also at some point suring the week look over the code that girls have on git & look at their airtable. 
--Keeping checking the slack 
+- check in with the girls and help them with anything they need help with during the week until thursday, 
+- GOal to write about branching in the wiki and 
+- then also have either a video or inperson meeting on thursday.
+- Also at some point suring the week look over the code that girls have on git & look at their airtable. 
+- Keeping checking the slack 
 
 
 
