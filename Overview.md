@@ -59,7 +59,7 @@ This week we were planning to have a face to face meeting on monday with the gir
 
 ## Week 7 
 
-# Lesson 1
+### Lesson 1
 - Main goal for monday is to finish the auth tutorial that grayson gave us an c
 - check in with the girls and help them with anything they need help with during the week until thursday, 
 - GOal to write about branching in the wiki and 
@@ -67,7 +67,7 @@ This week we were planning to have a face to face meeting on monday with the gir
 - Also at some point suring the week look over the code that girls have on git & look at their airtable. 
 - Keeping checking the slack 
 
-# Lesson 2
+### Lesson 2
 - Still working on the auth tutorial
 - Girls have let us know that they don't have enough time to learn branching
 - They are still having some isssues with git
