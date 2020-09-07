@@ -76,7 +76,18 @@ This week we were planning to have a face to face meeting on monday with the gir
 - This week has been a lot of back and forth conversations about errors they have on git 
 - We have really just been trying our best to help them be able to use git effectivly 
  
-  
+ ## Week 8 
+ 
+### Lesson 1 
+- Still having git issues
+- will hopefully meet on thursday in person to discuss what we are going to do. 
+- I am working on another vue tutorial so i can get hang of it. 
+- Standup meeting as usual in class
+- Sprint 1 has finished
+- We did a review of the sprint (in the sprint details)
+- Addded usesr story about vue. 
+- Keeping up communication on slack. 
+
 
 
 
