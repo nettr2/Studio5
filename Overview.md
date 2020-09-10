@@ -88,6 +88,11 @@ This week we were planning to have a face to face meeting on monday with the gir
 - Addded usesr story about vue. 
 - Keeping up communication on slack. 
 
+### Lesson 2
+
+- Being a mentor is a new experience,can be difficult to gauge levels of understanding. 
+- maybe could learn something from not being able to communicate git in a way they understand. 
+- could need to go back to basics. 
 
 
 
